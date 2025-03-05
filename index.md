@@ -1,6 +1,6 @@
 # Technical Paper Extraction and Neo4j Knowledge Graph System
-![System Architecture](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/syst_arc.png)
-![Example Graph](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/thumbnail.png)
+![System Architecture](https://raw.githubusercontent.com/abh2050/Rag_with_knowledge_graph_neo4j/main/demo_images/syst_arc.png)
+![Example Graph](https://raw.githubusercontent.com/abh2050/Rag_with_knowledge_graph_neo4j/main/demo_images/thumbnail.png)
 ## Architecture Overview
 
 This project implements a **high-performance Natural Language Processing (NLP) pipeline** for scientific document analysis, leveraging a **Neo4j knowledge graph** for structured information storage and retrieval. The system follows a **Retrieval-Augmented Generation (RAG) paradigm** to enable **semantic search and contextual querying** across scientific literature.
@@ -180,18 +180,18 @@ For more detailed usage or specific configurations, refer to `CONTRIBUTING.md`.
 ---
 
 ## Example Usage
-![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_1.jpeg)
-![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_2.jpeg)
-![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_3.jpeg)
-![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_4.jpeg)
-![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_5.jpeg)
-![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_6.jpeg)
-![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_7.jpeg)
-![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_8.jpeg)
-![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_9.jpeg)
-![]([https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_1.jpeg)
-![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/vizualizing%20the%20PDF.png)
-![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/visualisation%20(1).png)
+
+![Example Usage](https://raw.githubusercontent.com/abh2050/Rag_with_knowledge_graph_neo4j/main/demo_images/image_1.jpeg)
+![Example Usage](https://raw.githubusercontent.com/abh2050/Rag_with_knowledge_graph_neo4j/main/demo_images/image_2.jpeg)
+![Example Usage](https://raw.githubusercontent.com/abh2050/Rag_with_knowledge_graph_neo4j/main/demo_images/image_3.jpeg)
+![Example Usage](https://raw.githubusercontent.com/abh2050/Rag_with_knowledge_graph_neo4j/main/demo_images/image_4.jpeg)
+![Example Usage](https://raw.githubusercontent.com/abh2050/Rag_with_knowledge_graph_neo4j/main/demo_images/image_5.jpeg)
+![Example Usage](https://raw.githubusercontent.com/abh2050/Rag_with_knowledge_graph_neo4j/main/demo_images/image_6.jpeg)
+![Example Usage](https://raw.githubusercontent.com/abh2050/Rag_with_knowledge_graph_neo4j/main/demo_images/image_7.jpeg)
+![Example Usage](https://raw.githubusercontent.com/abh2050/Rag_with_knowledge_graph_neo4j/main/demo_images/image_8.jpeg)
+![Example Usage](https://raw.githubusercontent.com/abh2050/Rag_with_knowledge_graph_neo4j/main/demo_images/image_9.jpeg)
+![Example Usage](https://raw.githubusercontent.com/abh2050/Rag_with_knowledge_graph_neo4j/main/demo_images/vizualizing%20the%20PDF.png)
+![Example Usage](https://raw.githubusercontent.com/abh2050/Rag_with_knowledge_graph_neo4j/main/demo_images/visualisation%20(1).png)
 
 
 ## License
