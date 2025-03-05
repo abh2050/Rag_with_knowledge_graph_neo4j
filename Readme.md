@@ -1,5 +1,5 @@
 # Technical Paper Extraction and Neo4j Knowledge Graph System
-
+![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/thumbnail.png)
 ## Architecture Overview
 
 This project implements a **high-performance Natural Language Processing (NLP) pipeline** for scientific document analysis, leveraging a **Neo4j knowledge graph** for structured information storage and retrieval. The system follows a **Retrieval-Augmented Generation (RAG) paradigm** to enable **semantic search and contextual querying** across scientific literature.
