@@ -199,8 +199,6 @@ For more detailed usage or specific configurations, refer to `CONTRIBUTING.md`.
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-
-- Built with support from xAI.
 - Leverages open-source libraries: Transformers, SpaCy, Neo4j, Streamlit, and more.
 
 ---
