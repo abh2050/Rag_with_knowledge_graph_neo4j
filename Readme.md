@@ -1,41 +1,39 @@
 # Technical Paper Extraction and Neo4j Knowledge Graph System
-![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/thumbnail.png)
+![System Architecture](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/syst_arc.png)
+![Example Graph](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/thumbnail.png)
 ## Architecture Overview
 
 This project implements a **high-performance Natural Language Processing (NLP) pipeline** for scientific document analysis, leveraging a **Neo4j knowledge graph** for structured information storage and retrieval. The system follows a **Retrieval-Augmented Generation (RAG) paradigm** to enable **semantic search and contextual querying** across scientific literature.
-
-![System Architecture](https://mermaid.ink/img/pako:eNp1U02P2jAQ_SuWe2ilBCFt2TsIaYEttIfuqouqHiLHmcSGxI5sh2UV8d93nCwflGoPiefNm_dmxteoZCWQRrwy4q0mq5WAAouKwIp5q1Jt5CMxaex_P-_eEWlJxaSh7SNptHN9ULnAWa_auBJZE-0RfsKBuXZigrHLd9vbG65UA6GLccceUQIOfgHUk7oEJ3lLaTuV_zItXUbc8iqFRkLKBbSUW_z1WJfAsYEJUJPDc0OE62ZnNO-2UW9jnII40xBT2RhDjFwYkk6zJ1izEjjsNi5Fr38dTZe97_xJZYoY_gB5qZ1aBZ1uJUUjKyjhCRwjjsHdcRInNInhTmgWZQK6KJbdLHcjasgIUiBDEgpa20GiZ4lmoQeg-f8MZqYdDwGpZvZft8Y8vCdXyXc_4OBFmOC2wBnCEba_qdKFDENEuGHnMWoCRVKVsvgl-YdPkDuihEkl_EFJG4OUN3U2iDWKDk55IZl6CdoZLiVdgy0YlsFlGcMsRlkBDBHgt2tvOIM8651BCKPy7Ux4pYXGgDdtDrp1fVP6mroiP8TL3WLh7fOzjMYoLrmjF45kZFj3emeE5SpYhTULCXO3dbrwuueaiquqr43M8XNX38uLK09R43q-bMUatTtDcQEOGbCoZSm_PtDS18WW_EyyTSSLs47YneyBKFjRuK1N8O03q9qXbmRDYhJHE0LiC42iSxQl8TiJtjS-xOMk-BfFYxoE07PmpVrZr907SSgvLJWoWxfsoVW9pSROLmlEY4__9PEdo61NNQ)
-
 ---
 
 ## System Architecture Details
 Data Flow Pipeline:
-Document Ingestion
+- Document Ingestion
 
 PDF/DOCX parsing with text structure preservation
-Sectioning based on headings and layout
-Preprocessing
+- Sectioning based on headings and layout
+- Preprocessing
 
 Scientific text normalization (equation handling, citation formatting)
-Language detection and filtering
+- Language detection and filtering
 NLP Processing
 
-Entity extraction with domain-specific models
-Relation extraction between entities
-Claim detection with confidence scoring
-Topic modeling across document corpus
+- Entity extraction with domain-specific models
+- Relation extraction between entities
+- Claim detection with confidence scoring
+- Topic modeling across document corpus
 Document summarization
-Knowledge Graph Construction
+ -Knowledge Graph Construction
 
 Node creation with properties and metadata
-Relationship establishment with weights/attributes
-Embedding vector storage
-Retrieval System
+ -Relationship establishment with weights/attributes
+ -Embedding vector storage
+- Retrieval System
 
 Query processing and embedding
-Multi-strategy search (vector, entity, keyword)
-Context assembly from graph traversal
-Response generation with citations
+- Multi-strategy search (vector, entity, keyword)
+- Context assembly from graph traversal
+- Response generation with citations
 
 ## Core Components
 
@@ -180,6 +178,21 @@ For more detailed usage or specific configurations, refer to `CONTRIBUTING.md`.
 - **Dockerization (Optional)**: Containerize your pipeline and Neo4j instance for reproducible deployments.
 
 ---
+
+## Example Usage
+![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_1.jpeg)
+![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_2.jpeg)
+![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_3.jpeg)
+![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_4.jpeg)
+![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_5.jpeg)
+![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_6.jpeg)
+![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_7.jpeg)
+![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_8.jpeg)
+![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_9.jpeg)
+![]([https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_1.jpeg]
+![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/vizualizing%20the%20PDF.png)
+![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/visualisation%20(1).png)
+
 
 ## License
 
