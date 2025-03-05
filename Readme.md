@@ -189,7 +189,7 @@ For more detailed usage or specific configurations, refer to `CONTRIBUTING.md`.
 ![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_7.jpeg)
 ![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_8.jpeg)
 ![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_9.jpeg)
-![]([https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_1.jpeg]
+![]([https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/image_1.jpeg)
 ![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/vizualizing%20the%20PDF.png)
 ![](https://github.com/abh2050/Rag_with_knowledge_graph_neo4j/blob/main/demo_images/visualisation%20(1).png)
 
