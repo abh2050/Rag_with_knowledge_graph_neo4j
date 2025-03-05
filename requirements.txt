@@ -1,0 +1,23 @@
+# Core dependencies
+python-docx
+spacy
+tqdm
+torch
+torchvision
+transformers
+sentence-transformers
+bertopic
+scikit-learn
+neo4j
+streamlit
+langchain
+openai
+
+# Optional dependencies
+wandb  # For experiment tracking
+
+# Development dependencies
+pytest
+black
+flake8
+mypy
