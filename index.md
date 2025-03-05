@@ -201,8 +201,4 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 - Leverages open-source libraries: Transformers, SpaCy, Neo4j, Streamlit, and more.
 
----
-
-This improved README consolidates the technical details of the pipeline, knowledge graph, and RAG components, while providing a clear overview of how to use, extend, and understand why it surpasses generic RAG solutions.
-
 
